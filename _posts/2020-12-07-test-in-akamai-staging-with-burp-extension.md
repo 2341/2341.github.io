@@ -50,7 +50,7 @@ class BurpExtender(IBurpExtender, ITab):
                                 callbacks.addSuiteTab(self) 
                                 
                 def getTabCaption(self):
-                                return "Akamai Staging Redirect"
+                                return "Test on Akamai Staging"
                 
            
                 def getUiComponent(self):
@@ -65,7 +65,7 @@ class BurpExtender(IBurpExtender, ITab):
                                 panel = JPanel()
                                 text = JTextField(50) 
                                 panel.add(text) 
-                                btn1 = JButton("Add Akamai Staging Redirect", actionPerformed= btn1Click)
+                                btn1 = JButton("Test on Akamai Staging", actionPerformed= btn1Click)
                                 panel.add(btn1)
                                 return panel
 

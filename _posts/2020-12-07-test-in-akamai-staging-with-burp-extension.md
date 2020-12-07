@@ -2,13 +2,13 @@
 
 layout: post
 
-title:  "Akamai staging redirection with burp extension"
+title:  "Host name resolution to Akamai staging with Burp extension"
 
 date:   2020-12-07 17:36:45 +0200
 
 ---
 
-The Burp extension adds a new tab once it is loaded. In the new tab enter the production domain and the extension will automaticly add a redirect to Akamai staging. You can find the IP set by the extension under "project options -> connections -> hostname resolution"
+The Burp extension adds a new tab once it is loaded. In the new tab enter the production domain you want to test on Akamai staging. You can find the IP set by the extension under "project options -> connections -> hostname resolution".
 
 
 

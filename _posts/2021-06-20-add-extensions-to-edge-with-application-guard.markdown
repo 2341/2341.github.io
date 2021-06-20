@@ -14,7 +14,7 @@ Under "\Software\Policies\Microsoft\Edge\ExtensionInstallForcelist" you can put 
 
 <img src="/assets/img/edge-registry2.jpg" alt="">
 <img src="/assets/img/edge-registry1.jpg" alt="">
-The value of the extensions can be found on microsoftedge.microsoft.com/addons in the URL on the extension sites. You can check if you done everything right under "edge://policy".
+The ID of the extensions can be found on microsoftedge.microsoft.com/addons in the URL on the extension sites. You can check if you done everything right under "edge://policy".
 
 <img src="/assets/img/extension-id.jpg" alt="">
 

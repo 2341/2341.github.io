@@ -9,7 +9,7 @@ date:   2021-06-20 17:36:45 +0200
 ---
 
 If you use Microsoft Edge with Application Guard all extensions you install are gone after you restart the browser. A workaround for this is to force installation of all extensions you need to use via the Windows Registry.
-Under "\Software\Policies\Microsoft\Edge\ExtensionInstallForcelist" you can put the IDs of all extentions you need. "Edge" and "ExtensionInstallForcelist" are probably not be present so you will have to add them. 
+Under "\Software\Policies\Microsoft\Edge\ExtensionInstallForcelist" you can put the IDs of all extentions you need. "Edge" and "ExtensionInstallForcelist" are probably not present so you will have to add them. 
 
 
 <img src="/assets/img/edge-registry2.jpg" alt="">
